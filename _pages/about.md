@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "blabla"
+masthead_title: "Presentation"
 excerpt: ""
 author_profile: true
 redirect_from: 
