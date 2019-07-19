@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 * ***A scalable online algorithm for passive seismic tomography in underground mines***, preprint, 2019. 
 With Joaquín Fontbona and Jorge Prado. <a href="https://www.researchgate.net/publication/334495142_A_scalable_online_algorithm_for_passive_seismic_tomography_in_underground_mines" title="ResearchGate">Abstract</a>
 
