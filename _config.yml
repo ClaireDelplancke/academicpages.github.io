@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "C. Delplancke"
+masthead_title           : "Presentation"
 title_separator          : "-"
 name                     : &name "Claire Delplancke"
 description              : &description "Academic webpage"
