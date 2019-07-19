@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### To come in 2019
+### To come in 2019...
 * [**CLAPEM**](http://clapem2019.eventos.cimat.mx/ "XV Latin American Congress of Probability and Mathematical Statistics"), Merida-Yucatán, México, December 2-6.
 * [**BUC-XVII**](http://buc.cimat.mx/node/47 "BUC-Chile Probability meeting"), Playa del Carmen, México, November 28-30.
 * [**FLACAM**](http://eventos.cmm.uchile.cl/flacam2019/ "French Latin-American Conference on new trends in Applied Mathematics"), *Center for Mathematical Modeling*, Universidad de Chile, Santiago, November 5-8.
