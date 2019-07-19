@@ -13,5 +13,5 @@ With Joaquín Fontbona and Jorge Prado. <a href="https://www.researchgate.net/pu
 * ***Berry-Esseen bounds for the chi-square distance in the Central Limit Theorem: a Markovian approach***, preprint, 2017. 
 With Laurent Miclo. <a href="https://arxiv.org/abs/1709.09410" title="arXiv">Full text</a>
 
-* ***Intertwinings and Stein's magic factors for birth-death processes***, final version 2017, published in *Annales de l'Insitut Henri Poincaré, Probabilités et Statistiques 55(1)*, 2019.
+* ***Intertwinings and Stein's magic factors for birth-death processes***, final version 2017, published in 2019 in *Annales de l'Institut Henri Poincaré, Probabilités et Statistiques 55(1)*.
 With Bertrand Cloez. <a href="https://arxiv.org/abs/1609.08390" title="arXiv">Full text</a>
