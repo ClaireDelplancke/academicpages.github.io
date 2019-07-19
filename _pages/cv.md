@@ -11,49 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Applied Mathematics, 2017, *Institut de Mathématiques de Toulouse, Université Toulouse 3 Paul Sabatier*, on **Quantitative methods for long-time behaviour of homogeneous and non-homogeneous Markov processes**. Directors: Aldéric Joulin and Laurent Miclo. Jury: Bernard Bercu, Laurent Decreusefond, Gersende Fort, Arnaud Guillin, Clémentine Prieur, Anthony Réveillac.
+[Manuscript](http://thesesups.ups-tlse.fr/3649/ "Manuscript") (in English)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Master in Applied Mathematics (Probability and Statistics), 2013, *Université Toulouse 3 Paul Sabatier*.
+* Agrégation de Mathématiques, 2012.
+* Studies at *Ecole Normale Supérieure de Cachan*, 2009-2013.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (NumPy, Pandas), Matlab
+* English, French, Spanish
 
-Publications
+Award
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Best communication prize, *Doctoriales Midi-Pyrénées 2015*, Albi June 14-19.
