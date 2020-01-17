@@ -15,5 +15,6 @@ Since January 2020, I am a Research Associate at the Department of Mathematical 
 # Contact
 
 cd902@bath.ac.uk
+
 Office 1.5, building 6 West    
 Phone +44 (0) 1225 386011

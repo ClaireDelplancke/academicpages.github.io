@@ -5,15 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
-### To come in 2019...
+### To come in 2020...
+* May 4, **Probability Seminar**, *Department of Mathematical Sciences*, University of Bath. 
+ 
+ 
+### 2019
 * [**CLAPEM**](http://clapem2019.eventos.cimat.mx/ "XV Latin American Congress of Probability and Mathematical Statistics"), Merida-Yucatán, México, December 2-6.
 * [**BUC-XVII**](http://buc.cimat.mx/node/47 "BUC-Chile Probability meeting"), Playa del Carmen, México, November 28-30.
 * [**FLACAM**](http://eventos.cmm.uchile.cl/flacam2019/ "French Latin-American Conference on new trends in Applied Mathematics"), *Center for Mathematical Modeling*, Universidad de Chile, Santiago, November 5-8.
 * [**Pucón Symposium**](http://eventos.cmm.uchile.cl/pucon2019/ "Data Science for Frontier Astronomy, Biology, Medicine and Climate"), Puerto Varas, Chile, August 6-8.
- 
- 
-### 2019
-
 * **Groups and geometry seminar**, *Universidad de Santiago de Chile*, June 13.
 * **IMC Seminar**, *Institute of Mathematical and Computational Engineering*, Pontifica Universidad Católica de Chile, Santiago, May 29.
 * **Mathematical Modeling Seminar**, *Mathematics Department*, Pontifica Universidad Católica de Chile, Santiago, March 29.
