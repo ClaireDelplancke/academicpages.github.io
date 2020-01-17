@@ -10,10 +10,10 @@ redirect_from:
 
 # Introduction
 
-Since September 2017, I am a postdoctoral researcher at the [Center for Mathematical Modeling](http://www.cmm.uchile.cl/), Universidad de Chile, Santiago. My  research interests are centered on the stochastic algorithms used in Machine Learning. I like going back and forth between theoretical analysis, usually by means of Markov asymptotic theory, and applications, currently in seismic tomography.
+Since January 2020, I am a Research Associate at the Department of Mathematical Sciences of the University of Bath, where I work with [Matthias Ehrhardt](https://mehrhardt.github.io/index.html) on the project [PET++](https://petpp.github.io). My  research interests are centered on the stochastic algorithms used in Machine Learning and Optimization, applied to medical and seismic tomography.
 
 # Contact
 
-cdelplancke@cmm.uchile.cl   
-Oficina 706, Beauchef 851, Torre Norte    
-Teléfono oficina +56 22 977 1089
+cd902@bath.ac.uk
+Office 1.5, building 6 West    
+Phone +44 (0) 1225 386011

@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+
+* Postdoctoral researcher at the [Center for Mathematical Modeling](http://www.cmm.uchile.cl/), Universidad de Chile, Santiago, September 2017 - December 2019.
+
 Education
 ======
 * PhD in Applied Mathematics, 2017, *Institut de Mathématiques de Toulouse, Université Toulouse 3 Paul Sabatier*, on **Quantitative methods for long-time behaviour of homogeneous and non-homogeneous Markov processes**. Directors: Aldéric Joulin and Laurent Miclo. Jury: Bernard Bercu, Laurent Decreusefond, Gersende Fort, Arnaud Guillin, Clémentine Prieur, Anthony Réveillac.
