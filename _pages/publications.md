@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-* ***A scalable online algorithm for passive seismic tomography in underground mines***, preprint, 2019. 
-With Joaquín Fontbona and Jorge Prado. <a href="https://www.researchgate.net/publication/334495142_A_scalable_online_algorithm_for_passive_seismic_tomography_in_underground_mines" title="ResearchGate">Abstract</a>
+* ***A scalable online algorithm for passive seismic tomography in underground mines***, *Geophysics, Vol. 85. No. 4*, 2020. 
+With Joaquín Fontbona and Jorge Prado. <a href="https://www.researchgate.net/publication/341379080_A_scalable_online_algorithm_for_passive_seismic_tomography_in_underground_mines" title="ResearchGate">Abstract</a>
 
 * ***Berry-Esseen bounds for the chi-square distance in the Central Limit Theorem: a Markovian approach***, preprint, 2017. 
 With Laurent Miclo. <a href="https://arxiv.org/abs/1709.09410" title="arXiv">Full text</a>
