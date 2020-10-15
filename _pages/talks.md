@@ -5,8 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-### To come in 2020...
-* May 4, **Probability Seminar**, *Department of Mathematical Sciences*, University of Bath. 
+### 2020...
+* November 2-7th, [**IEEE Medical Imaging conference**](https://nssmic.ieee.org/2020/# "IEEE MIC"), poster on *Improving a stochastic algorithm for regularized PET image reconstruction*. 
+* October 12th, **Institute of Nuclear Medicine bi-weekly meetings**, UCL: *Stochastic primal-dual hybrid gradient algorithm for regularized PET image reconstruction*. [<a href="../files/ucl_inm_presentation.pdf">slides (1MB)</a>]
+* March 6th, **Numerical Analysis Seminar**, Department of Mathematical Sciences, University of Bath: *A scalable online algorithm for passive seismic tomography in underground mines*. [<a href="../files/Bath2020.pdf">slides (3MB)</a>]
  
  
 ### 2019
