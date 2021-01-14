@@ -83,8 +83,13 @@ author:
   name             : "Claire Delplancke"
   avatar           : "profile.JPG"
   bio              : "Researcher in Stochastics"
+<<<<<<< HEAD
   location         : "Dept. of Math. Sciences"
   employer         : "University of Bath"
+=======
+  location         : "University of Bath"
+  employer         : "Dept of Mathematical Sciences"
+>>>>>>> 5aca85bb927f1f5b825c6611bc3774212f8c7d14
   pubmed           :
   googlescholar    : 
   email            :
