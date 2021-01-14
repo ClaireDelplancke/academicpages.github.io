@@ -25,7 +25,7 @@ Education
 
 Skills
 ======
-* Python (NumPy, Pandas), Matlab
+* Python, Matlab
 * English, French, Spanish
 
 Award
