@@ -16,6 +16,9 @@ Bertrand Cloez and Claire Delplancke. <a href="https://arxiv.org/abs/1609.08390"
 
 **Preprints**
 
+* ***Core Imaging Library -- Part II: Multichannel reconstruction for dynamic and spectral tomography***, preprint, 2021. 
+Evangelos Papoutsellis, Evelina Ametova, Claire Delplancke, Gemma Fardell, Jakob S. Jørgensen, Edoardo Pasca, Martin Turner, Ryan Warr, William R. B. Lionheart, Philip J. Withers. <a href="https://arxiv.org/abs/2102.06126" title="arXiv">Full text</a>
+
 * ***On the Convergence of the Stochastic Primal-Dual Hybrid Gradient for Convex Optimization***, preprint, 2020. 
 Eric B. Gutierrez, Claire Delplancke and Matthias J. Ehrhadt. <a href="https://arxiv.org/abs/2012.01255" title="arXiv">Full text</a>
 
