@@ -5,6 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
+### To come
+
+* ***SIAM Imaging Conference 2022***, March 21-25, TBC.
+* ***IEEE Medical Imaging Conference 2021***, October 18-23: *Accelerated Convergent
+Motion Compensated Image Reconstruction*, online.
+
+### 2021
+
+* August 30th- September 3rd, **SIMAI 2020+2021 conference**, Parma.
+* July 20th-23rd, **SIAM Conference on Optimization**, online.
+
 ### 2020
 * November 2-7th, [**IEEE Medical Imaging conference**](https://nssmic.ieee.org/2020/# "IEEE MIC"), poster on *Improving a stochastic algorithm for regularized PET image reconstruction*. 
 * October 12th, **Institute of Nuclear Medicine bi-weekly meetings**, UCL: *Stochastic primal-dual hybrid gradient algorithm for regularized PET image reconstruction*. [<a href="../files/ucl_inm_presentation.pdf">slides (1MB)</a>]

@@ -28,6 +28,7 @@ Skills
 * Python, Matlab
 * English, French, Spanish
 
-Award
+Awards
 ======
+* [SyneRBI Bronze award 2021](https://www.ccppetmr.ac.uk/node/285)
 * Best communication prize, *Doctoriales Midi-Pyrénées 2015*, Albi June 14-19.
