@@ -14,7 +14,10 @@ Since January 2020, I am a Research Associate at the Department of Mathematical 
 
 # News
 
-* Come and listen to my talk at the ***IEEE Medical Imaging Conference on October 23rd*** in order to learn how to use a randomized algorithm to speed up Motion Compensation in medical imaging reconstruction!
+* The first of the two [**PET++/CCPi/SyneRBI hackathons**](https://petpp.github.io/#Hackathons) I co-organise on *stochastic algorithms for tomographic reconstruction* took place on November - stay tuned for the announcement of the second one in early 2022.
+
+* Presented a talk at the **IEEE Medical Imaging Conference 2021** on *Accelerated Convergent
+Motion Compensated Image Reconstruction* (joint work with Matthias J. Ehrhadt and Kris Thielemans).
 
 # Contact
 

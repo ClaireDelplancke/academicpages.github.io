@@ -21,9 +21,11 @@ Bertrand Cloez and ***Claire Delplancke***. <a href="https://arxiv.org/abs/1609.
 
 **Conference papers**
 
+* ***Accelerated Convergent Motion Compensated Image Reconstruction***, *IEEE Medical Imaging Conference*, 2021, ***Claire Delplancke***, Matthias J. Ehrhardt and Kris Thielemans.
+
 * ***Convergence Properties of a Randomized Primal-Dual Algorithm with Applications to Parallel MRI***, *Scale Space and Variational Methods in Computer Vision (SSVM)*, 2021, Eric B. Guttierez, ***Claire Delplancke***, Matthias J. Ehrhadt.
 
-* ***Improving a Stochastic Algorithm for Regularized PET Image Reconstruction***, *IEEE Medical Imaging Conference*, 2020, ***Claire Delplancke***, Mark Gurnell, Jonas Latz, Pawel J. Markiewicz, Carola-Bibiane Schoenlieb and Matthias J. Ehrhardt.
+* ***Improving a Stochastic Algorithm for Regularized PET Image Reconstruction***, *IEEE Medical Imaging Conference*, 2020, ***Claire Delplancke***, Mark Gurnell, Jonas Latz, Pawel J. Markiewicz, Carola-Bibiane Schoenlieb and Matthias J. Ehrhardt. [Link](https://ieeexplore.ieee.org/abstract/document/9508013) 
 
 
 
