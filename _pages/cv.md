@@ -31,5 +31,6 @@ Skills
 
 Awards
 ======
+* [CoSeC impact award 2022](https://www.scd.stfc.ac.uk/Pages/CoSeC_news_CIA2022_winners.aspx)
 * [SyneRBI Bronze award 2021](https://www.ccppetmr.ac.uk/node/285)
 * Best communication prize, *Doctoriales Midi-Pyrénées 2015*, Albi June 14-19.
