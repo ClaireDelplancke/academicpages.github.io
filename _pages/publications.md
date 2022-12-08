@@ -31,5 +31,7 @@ Bertrand Cloez and ***Claire Delplancke***. <a href="https://arxiv.org/abs/1609.
 
 **Preprints**
 
+* ***On the convergence and sampling of randomized primal-dual algorithms and their application to parallel MRI reconstruction***, Eric B Gutierrez, Claire Delplancke, Matthias J Ehrhardt, [arXiv preprint](https://arxiv.org/abs/2207.12291), 2022.
+
 * ***Berry-Esseen bounds for the chi-square distance in the Central Limit Theorem: a Markovian approach***, preprint, 2017. 
 Claire Delplancke and Laurent Miclo. <a href="https://arxiv.org/abs/1709.09410" title="arXiv">Full text</a>
