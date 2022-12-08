@@ -8,20 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# Introduction
+# About
 
-Since January 2020, I am a Research Associate at the Department of Mathematical Sciences of the University of Bath, where I work with [Matthias Ehrhardt](https://mehrhardt.github.io/index.html) on the project [PET++](https://petpp.github.io). My  research interests are centered on the stochastic algorithms used in Machine Learning and Optimization, applied to medical and seismic tomography.
+Since mid-2022 I am a research engineer at EDF-Lab Paris Saclay, where I work on energy management and resource optimization. Before that, I completed my PhD in Applied Mathematics in 2017, followed by two Research Associate positions with a focus on stochastic algorithm for inverse problems, the first one at the University of Chile and the second one at the University of Bath.
 
-# News
 
-* The first of the two [**PET++/CCPi/SyneRBI hackathons**](https://petpp.github.io/#Hackathons) I co-organise on *stochastic algorithms for tomographic reconstruction* took place on November - stay tuned for the announcement of the second one in early 2022.
 
-* Presented a talk at the **IEEE Medical Imaging Conference 2021** on *Accelerated Convergent
-Motion Compensated Image Reconstruction* (joint work with Matthias J. Ehrhadt and Kris Thielemans).
-
-# Contact
-
-cd902@bath.ac.uk
-
-Office 1.5, building 6 West    
-Phone +44 (0) 1225 386011
