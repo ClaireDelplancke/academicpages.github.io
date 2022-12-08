@@ -5,14 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
-### To come
+This page is not maintained anymore.
 
-* ***SIAM Imaging Conference 2022***, March 21-25, TBC.
-* ***IEEE Medical Imaging Conference 2021***, October 18-23: *Accelerated Convergent
-Motion Compensated Image Reconstruction*, online.
+### 2022
+
+* March 21-25, **SIAM Imaging Conference**, online.
+
 
 ### 2021
 
+* October 18-23, **IEEE Medical Imaging Conference**: *Accelerated Convergent
+Motion Compensated Image Reconstruction*, online.
 * August 30th- September 3rd, **SIMAI 2020+2021 conference**, Parma.
 * July 20th-23rd, **SIAM Conference on Optimization**, online.
 
