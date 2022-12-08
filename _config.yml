@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "C. Delplancke"
 title_separator          : "-"
 name                     : &name "Claire Delplancke"
-description              : &description "Academic webpage"
+description              : &description "Presentation webpage"
 url                      : https://clairedelplancke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ClaireDelplancke/ClaireDelplancke.github.io"
+repository               : #"ClaireDelplancke/ClaireDelplancke.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Claire Delplancke"
   avatar           : "profile.JPG"
-  bio              : "Researcher in Stochastics"
-  location         : "Dept. of Math. Sciences"
-  employer         : "University of Bath"
+  bio              : #"Researcher in Stochastics"
+  location         : #"Dept. of Math. Sciences"
+  employer         : "EDF Lab Paris-Saclay"
   pubmed           :
   googlescholar    : 
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Claire_Delplancke"
+  researchgate     :  #"https://www.researchgate.net/profile/Claire_Delplancke"
   uri              :
   bitbucket        :
   codepen          :
