@@ -11,7 +11,8 @@ redirect_from:
 
 Employment
 ======
-* Postdoctoral researcher in the [PET++ project](https://petpp.github.io) at the Department of Mathematical Sciences, University of Bath, since January 2020.
+* Research engineer at [EDF R&D](https://www.edf.fr/en/the-edf-group/inventing-the-future-of-energy/r-d-global-expertise/), EDF Lab Paris-Saclay, since July 2022.
+* Postdoctoral researcher in the [PET++ project](https://petpp.github.io) at the Department of Mathematical Sciences, University of Bath, January 2020 - June 2022.
 * Postdoctoral researcher at the [Center for Mathematical Modeling](http://www.cmm.uchile.cl/), Universidad de Chile, Santiago, September 2017 - December 2019.
 
 Education
